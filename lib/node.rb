@@ -1,0 +1,3 @@
+require 'eventmachine'
+
+Node = EventMachine
